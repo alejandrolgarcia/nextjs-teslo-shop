@@ -1,6 +1,5 @@
 import '@/styles/globals.css'
-import { ThemeProvider } from '@emotion/react'
-import { CssBaseline } from '@mui/material';
+import { CssBaseline, ThemeProvider } from '@mui/material';
 import type { AppProps } from 'next/app'
 import { lightTheme } from '../themes';
 
